@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hey there, I'm the ArtistdatWanders
+
+![Banner Image]("D:\Data\Pictures\Art Study\png and jpegs\4.3.3.png")
+
+- 🔭 I’m currently working on an Ai powered Health care app
+- 🌱 I’m currently learning a lot of things like React and git 
 
 <!--
 **Artistdatwanders/Artistdatwanders** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
