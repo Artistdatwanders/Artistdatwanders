@@ -1,21 +1,27 @@
 ## Hey there, I'm the ArtistdatWanders
 
-![Banner Image]("D:\Data\Pictures\Art Study\png and jpegs\4.3.3.png")
+<img src="https://github.com/user-attachments/assets/0a6799b0-d8da-4975-b05e-78dfacb5596c" alt="Banner Image" width="100%" />
 
-- 🔭 I’m currently working on an Ai powered Health care app
-- 🌱 I’m currently learning a lot of things like React and git 
+### 🚀 What I'm Working On
 
+- 🔭 Building an **AI-powered healthcare app** 
+
+### 🌱 What I'm Learning
+
+- ⚛️ **React** 
+- 🌿 **Git** 
+
+### 🧰 Tech Stack
+
+- **Languages:** JavaScript, C++, HTML, CSS
+
+- 💼 [Portfolio Website](https://cara.app/artistdatwanders?fbclid=PAZXh0bgNhZW0CMTEAAafubFw_Y8-IByKDUPRvnlJvIia86EvDQ-ewpWrwY6LxA_-h6NAIHsqRmL8e7A_aem_ueJ0YKTgc80JFZff4EXiOA) <!-- Add your portfolio link -->
+- 🐦 [Twitter / X]([https://twitter.com/yourhandle](https://x.com/UZcyber1)) <!-- Replace with actual handle -->
+
+### ⚡ Fun Fact
+
+I don't know what I'm doing.....
+<!-- Optional GitHub Stats -->
 <!--
-**Artistdatwanders/Artistdatwanders** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Artistdatwanders&show_icons=true&theme=radical)
 -->
