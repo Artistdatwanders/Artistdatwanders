@@ -1,6 +1,6 @@
 ## Hey there, I'm the ArtistdatWanders
 
-<img src="https://github.com/user-attachments/assets/0a6799b0-d8da-4975-b05e-78dfacb5596c" alt="Banner Image" width="100%" />
+
 
 ### 🚀 What I'm Working On
 
