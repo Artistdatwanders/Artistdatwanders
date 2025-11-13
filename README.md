@@ -4,7 +4,7 @@
 
 ### 🚀 What I'm Working On
 
-- 🔭 Building an **AI-powered healthcare app** 
+- 🔭 Building an **AI-powered healthTracker app** 
 
 ### 🌱 What I'm Learning
 
@@ -16,7 +16,7 @@
 - **Languages:** JavaScript, C++, HTML, CSS
 
 - 💼 [Portfolio Website](https://cara.app/artistdatwanders?fbclid=PAZXh0bgNhZW0CMTEAAafubFw_Y8-IByKDUPRvnlJvIia86EvDQ-ewpWrwY6LxA_-h6NAIHsqRmL8e7A_aem_ueJ0YKTgc80JFZff4EXiOA) <!-- Add your portfolio link -->
-- 🐦 [Twitter / X]([https://twitter.com/yourhandle](https://x.com/UZcyber1)) <!-- Replace with actual handle -->
+- 🐦 [Twitter / X]((https://x.com/UZcyber1)) <!-- Replace with actual handle -->
 
 ### ⚡ Fun Fact
 
