@@ -15,9 +15,6 @@
 
 - **Languages:** JavaScript, C++, HTML, CSS
 
-- 💼 [Portfolio Website](https://cara.app/artistdatwanders?fbclid=PAZXh0bgNhZW0CMTEAAafubFw_Y8-IByKDUPRvnlJvIia86EvDQ-ewpWrwY6LxA_-h6NAIHsqRmL8e7A_aem_ueJ0YKTgc80JFZff4EXiOA) <!-- Add your portfolio link -->
-- 🐦 [Twitter / X]((https://x.com/UZcyber1)) <!-- Replace with actual handle -->
-
 ### ⚡ Fun Fact
 
 I don't know what I'm doing.....
